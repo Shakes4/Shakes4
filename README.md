@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shakes
-- 👀 I’m interested in codind 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning Css and Javascript
 - 💞️ I’m looking to collaborate on building a website for business 
 - 📫 How to reach me, well you can email me at shakeslindelwa294@gmail.com
